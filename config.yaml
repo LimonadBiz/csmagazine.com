@@ -1,0 +1,7 @@
+url: http://csmagazine.com
+baseURL: http://csmagazine.com
+name: CSmagazine
+description: будущее рядом
+canonifyURLs: true
+theme: "hugo-bootstrap-premium"
+publishDir: "public"
